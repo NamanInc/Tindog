@@ -1,0 +1,221 @@
+.navbar-nav{
+
+    margin-left: auto;
+}
+
+
+
+
+
+#title{
+    
+    
+
+    background-color: #ff4c68;
+
+
+
+}.title1{
+    color: white;
+
+    font-size: 3.6rem;
+    line-height: 1.5;
+    font-family: 'Poppins';
+
+
+    
+}.container-fluid{
+   
+
+    padding: 3% 15% 7%;
+
+}body{
+
+    font-family: 'Montserrat', sans-serif;
+
+}.navbar-brand{
+    font-size: 2.2rem;
+
+    font-family: 'Josefin Sans', sans-serif;
+}.navbar{
+
+padding: 0 0 4.5rem;
+
+
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+
+    font-size: 1.2rem;
+    font-family: 'Montserrat';
+}
+
+/* Buttons */
+
+.downloadbtn{
+
+    margin: 5% 3% 5% 0;
+}
+.title-image{
+
+    width: 26%;
+    transform: rotate(25deg);
+    right: 20%;
+   
+    position: absolute;
+}
+
+#features{
+    position: relative;
+   
+    
+    background-color: white;
+
+    padding: 7% 15%;
+
+
+}.feature-box{
+
+    text-align: center;
+    padding: 2%;
+}
+
+h3{
+
+    font-family: 'Poppins';
+}
+
+p{
+    color: #8f8f8f;
+
+    font-family: 'Montserrat';
+
+
+}.icons{
+    margin-bottom: 1.2rem;
+
+    color: #ef8172;
+
+
+}.icons:hover{
+
+    color: #ff4c68;
+
+
+}
+
+#testimonials{
+    color: white;
+    background-color: #ef8172;
+    text-align: center;
+
+    
+}
+
+h2{
+
+    font-family: 'Poppins';
+    color: black;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.testimonial-image{
+    border-radius: 100%;
+    margin: 20px;
+
+
+    width: 10%;
+}
+
+#press{
+    padding-bottom: 3%;
+
+    background-color: #ef8172;
+    text-align: center;
+}
+
+.logoimg{
+    margin: 20px 20px 50px ;
+
+    width: 15%;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+
+
+}
+
+.testimonial-text{
+
+    color: white;
+}
+
+
+#pricing{
+
+    padding: 8% 8% 8% 8%;
+
+
+}
+
+.card-header{
+
+    background-color: #ff4c68;
+}
+
+.textprice{
+    padding: 3%;
+    font-size: 23px;
+    font-family: "Montserrat";
+
+    color: white;
+}
+
+.align-f{
+
+    text-align: center;
+}
+
+.footer-txt1{
+    padding-top: 0.1% ;
+    padding-bottom: o.1%;
+
+   
+
+
+}
+#cta{
+
+    padding: 1%;
+}
+
+
+@media (max-width :1028px) {
+
+    #title{
+
+        text-align: center;
+    }
+
+    .title-image{
+        margin-top: 8%;
+
+        width: 60%;
+        
+         transform: rotate(0deg); 
+        right: 20%;
+       
+        position: static;
+    }
+
+
+    
+}
+
+
